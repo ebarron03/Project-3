@@ -1,0 +1,10 @@
+<map id="LoadBalancer.h" name="LoadBalancer.h">
+<area shape="rect" id="node1" title="Defines the LoadBalancer class used to simulate a web server load balancing system." alt="" coords="131,5,252,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="92,80,165,107"/>
+<area shape="rect" id="node4" href="$RequestQueue_8h.html" title="Declares the RequestQueue class." alt="" coords="189,80,319,107"/>
+<area shape="rect" id="node8" href="$Server_8h.html" title="Header file for the Server class." alt="" coords="343,80,418,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="223,155,285,181"/>
+<area shape="rect" id="node6" href="$Request_8h.html" title="Declares the Request class." alt="" coords="323,155,409,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="337,229,395,256"/>
+</map>

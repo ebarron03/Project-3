@@ -1,0 +1,5 @@
+<map id="LoadBalancer.h" name="LoadBalancer.h">
+<area shape="rect" id="node1" title="Defines the LoadBalancer class used to simulate a web server load balancing system." alt="" coords="79,5,201,32"/>
+<area shape="rect" id="node2" href="$LoadBalancer_8cpp.html" title="Implementation of the LoadBalancer class." alt="" coords="5,80,141,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Driver program for the Load Balancer simulation." alt="" coords="165,80,248,107"/>
+</map>
